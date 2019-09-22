@@ -1,0 +1,95 @@
+[04.04.2019 21:40:39] Error: Please update your Nodejs version to 8.0.0 or higher
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:45:56)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+[04.04.2019 21:43:11] Error: Please update your Nodejs version to 8.0.0 or higher
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:45:56)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+[04.04.2019 21:43:31] Error: Please update your Nodejs version to 8.0.0 or higher
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:45:56)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+[04.04.2019 21:43:51] Error: Please update your Nodejs version to 8.0.0 or higher
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:45:56)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+[04.04.2019 21:45:36] Error: Please update your Nodejs version to 8.0.0 or higher
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:45:56)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+[04.04.2019 21:49:49] Error: Please update your Nodejs version to 8.0.0 or higher
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:45:56)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 21:50:11] Error: Please update your Nodejs version to 8.0.0 or higher
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:45:56)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 21:51:06] Error: Please update your Nodejs version to 8.0.0 or higher
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:45:56)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 21:51:34] Error: Please update your Nodejs version to 8.0.0 or higher
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:45:56)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 21:53:10] Error: Please update your Nodejs version to 8.0.0 or higher
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:45:56)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 21:59:09] Error: The bot needs to be a member on the new guild
+    at Function.validateSettings (C:\Users\User\Desktop\Discord-guild-copy-master\objects\validator.js:20:51)
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:67:41)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 21:59:53] Error: The bot needs to be a member on the new guild
+    at Function.validateSettings (C:\Users\User\Desktop\Discord-guild-copy-master\objects\validator.js:20:51)
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:67:41)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:00:29] Error: The bot needs to be a member on the new guild
+    at Function.validateSettings (C:\Users\User\Desktop\Discord-guild-copy-master\objects\validator.js:20:51)
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:67:41)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:02:28] Error: The bot needs to be a member on the new guild
+    at Function.validateSettings (C:\Users\User\Desktop\Discord-guild-copy-master\objects\validator.js:20:51)
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:67:41)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:03:30] Error: The bot needs to be a member on the new guild
+    at Function.validateSettings (C:\Users\User\Desktop\Discord-guild-copy-master\objects\validator.js:20:51)
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:67:41)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:06:39] Error: New guild admin role doesn't exist. Please make sure to either create an administrator role called 'guildcopy' OR fill in the newGuildAdminRoleId in the settings file
+    at Function.validateSettings (C:\Users\User\Desktop\Discord-guild-copy-master\objects\validator.js:35:39)
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:67:41)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:06:54] Error: Original guild to copy does not exist. Please check if the id in the settings is correct and if the bot is also member of this guild
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:79:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:07:35] Error: Original guild to copy does not exist. Please check if the id in the settings is correct and if the bot is also member of this guild
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:79:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:08:26] Error: New guild admin role doesn't exist. Please make sure to either create an administrator role called 'guildcopy' OR fill in the newGuildAdminRoleId in the settings file
+    at Function.validateSettings (C:\Users\User\Desktop\Discord-guild-copy-master\objects\validator.js:35:39)
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:67:41)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:10:38] Error: New guild admin role doesn't exist. Please make sure to either create an administrator role called 'guildcopy' OR fill in the newGuildAdminRoleId in the settings file
+    at Function.validateSettings (C:\Users\User\Desktop\Discord-guild-copy-master\objects\validator.js:35:39)
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:67:41)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:11:16] Error: New guild admin role doesn't exist. Please make sure to either create an administrator role called 'guildcopy' OR fill in the newGuildAdminRoleId in the settings file
+    at Function.validateSettings (C:\Users\User\Desktop\Discord-guild-copy-master\objects\validator.js:35:39)
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:67:41)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:12:09] Error: New guild admin role doesn't exist. Please make sure to either create an administrator role called 'guildcopy' OR fill in the newGuildAdminRoleId in the settings file
+    at Function.validateSettings (C:\Users\User\Desktop\Discord-guild-copy-master\objects\validator.js:35:39)
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:67:41)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:12:59] Error: The guildcopy role has to be the highest role on the target guild
+    at Function.validateSettings (C:\Users\User\Desktop\Discord-guild-copy-master\objects\validator.js:38:60)
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:67:41)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:13:15] Error: Please assign the guildcopy role to the bot
+    at Function.validateSettings (C:\Users\User\Desktop\Discord-guild-copy-master\objects\validator.js:39:65)
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:67:41)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:14:54] Error: Please assign the guildcopy role to the bot
+    at Function.validateSettings (C:\Users\User\Desktop\Discord-guild-copy-master\objects\validator.js:39:65)
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:67:41)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:29:08] Error: Original guild to copy does not exist. Please check if the id in the settings is correct and if the bot is also member of this guild
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:79:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[04.04.2019 22:31:12] Error: Please assign the guildcopy role to the bot
+    at Function.validateSettings (C:\Users\User\Desktop\Discord-guild-copy-master\objects\validator.js:39:65)
+    at Client.client.on (C:\Users\User\Desktop\Discord-guild-copy-master\copy.js:67:41)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
